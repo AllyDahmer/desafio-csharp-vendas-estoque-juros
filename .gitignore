@@ -1,0 +1,12 @@
+# Build
+bin/
+obj/
+
+# VS / VS Code
+.vs/
+.vscode/
+
+# Outros
+*.user
+*.suo
+*.cache
